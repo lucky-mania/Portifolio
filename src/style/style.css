@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;/*descobrir*/
+    font-family: "Poppins";
+}
+:root{
+    --bg-color:#080808;
+    --second-bg-color:#1d0000;
+    --text-color:#ffff;
+    --main-color:#f60b0b;
+}
