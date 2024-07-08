@@ -126,7 +126,7 @@ span{
                 0 0 100px var(--main-color);
 }
 .home-content p{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-weight: 500;
     line-height: 1.8;
     max-width: 1000px;
@@ -299,7 +299,7 @@ span{
     font-size: 2.6rem;
 }
 .about-content p{
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     margin: 2rem 0 3rem;
 }
 .about .heading{
