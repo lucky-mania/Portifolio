@@ -375,7 +375,7 @@ span{
 }
 /*Project*/
 .projects{
-    background: var(--second-bg-color);
+    background: var(--bg-color);
     background-size:cover;
 }
 .projects-box{
@@ -423,7 +423,7 @@ span{
 }
 /*Contato*/
 .contact{
-    background-color: var(--bg-color);
+    background-color: var(--second-bg-color);
 }
 .contact h2{
     margin-bottom: 3rem;
@@ -456,6 +456,7 @@ span{
 .contact form .btn{
     margin-top:2rem;
 }
+/*Footeer*/
 .footer{
     position: relative;
     bottom: 0;
