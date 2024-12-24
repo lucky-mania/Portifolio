@@ -1,3 +1,8 @@
+var ale = document.getElementById('alert');
+ale.onclick = function() {
+    alert("Em desenvolvimento")
+}
+
 let menuIcon = document.querySelector("#menu-icon");
 let navbar = document.querySelector('.navbar');
 

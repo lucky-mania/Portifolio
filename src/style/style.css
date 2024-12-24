@@ -477,28 +477,6 @@ span{
     display: inline-block;
     padding: 0 15px;
 }
-/*007*/
-.boxi{
-    color: white;
-}
-.code{
-background-color:gray;
-color: white;
-}
-#txtn1{
-    background-color: gray;
-    padding: 3px;
-}
-.play{
-    padding: 2px;
-    width: 50px;
-    font-size: 17px;
-}
-#res{
-    margin-top: 10px;
-    width: 140px;
-    font-size: 20px;
-}
 /*Celular*/
 @media(max-width:1285px){
     html{
