@@ -7,13 +7,14 @@
     outline: none;
     scroll-behavior: smooth;/*descobrir*/
     font-family: "Poppins";
+    
 }
 :root{
     --bg-color:#080808;
     --second-bg-color:#1d0000;
     --text-color:#ffff;
-    --main-color:#f60b0b;
-    --apps:#bb1818;
+    --main-color:#F2CD5C;
+    --apps:#F2CD5C;
 }
 html{
     font-size: 60%;
@@ -89,6 +90,9 @@ section{
     justify-content: center;
     gap: 15rem;
 }
+p{
+    font-size: 24px!important;
+}
 .joe{
     cursor: not-allowed;
    color: red;
@@ -144,7 +148,7 @@ span{
     height: 4.5rem;
     background: transparent;
     border: 2px solid var(--main-color);
-    font-size: 2.5rem;
+    font-size: 4rem;
     border-radius: 50%;
     color: var(--main-color);
    margin: 3rem 1.5rem 3rem 0;
