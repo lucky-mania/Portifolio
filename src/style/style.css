@@ -11,7 +11,7 @@
 }
 :root{
     --bg-color:#080808;
-    --second-bg-color:#1d0000;
+    --second-bg-color:#382f14;
     --text-color:#ffff;
     --main-color:#F2CD5C;
     --apps:#F2CD5C;
@@ -269,6 +269,19 @@ span{
         }
     }
 /*About*/
+.tit-habilidade{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    color: var(--main-color);
+    font-size: 40px!important;
+}
+.habilidade{
+    display: flex;
+    justify-content:start;
+    background-color: transparent;
+    box-shadow: 0 0 25px var(--bg-color);
+}
 .about{
     display: flex;
     justify-content: center;
