@@ -565,9 +565,10 @@ main h1{
 }
 @media(max-width:895px){
     .img-habilidade{
-        width: 140px!important;
+        width: 100px!important;
     }
     .habilidade{
+        width: 370px;
         background-color: transparent;
         box-shadow: 0 0 25px var(--bg-color);
     }
