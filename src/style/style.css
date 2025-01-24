@@ -572,9 +572,6 @@ main h1{
         background-color: transparent;
         box-shadow: 0 0 25px var(--bg-color);
     }  
-    .img-habilidade-react{
-        width: 110px!important;
-    }
     #menu-icon{
         display: block;
     }
