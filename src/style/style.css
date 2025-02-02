@@ -447,43 +447,6 @@ span{
     display: inline-block;
     padding: 0 15px;
 }
-/*Apps*/ 
-
-.link{
-    color: var(--text-color);
-}   
-.link:hover{
-    color: blue;
-    text-decoration: underline;
-}
-main{
-    max-width: 10000px;
-    min-width: 300px;
-    margin: auto;
-    padding: 20px;/*espaço interno*/
-    margin-bottom: 30px;
-    box-shadow: 0px 0px 10px black;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;   
-}
-main p{
-    margin: 15px 0px;
-    text-align: justify;
-    text-indent: 20px;
-    line-height: 2em;
-    font-size: 1.7em;
-}
-main h1{
-    display: flex;
-    justify-content: start;
-    font-size: 35px!important;   
-    background-image: linear-gradient(to right, var(--apps), transparent);
-}
-.apps-img{
-    display: flex!important;
-    justify-content: center!important;
-}
-
 /*Celular*/
 @media(max-width:1285px){
     html{
