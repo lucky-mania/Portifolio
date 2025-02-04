@@ -395,6 +395,10 @@ span{
 .project-card p{
     font-size: 1.6rem;
 }
+.project-two{
+    display: flex;
+    gap: 30px;
+}
 /*Footeer*/
 .footer{
     position: relative;
