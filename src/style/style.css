@@ -226,7 +226,7 @@ span{
     @keyframes words{
         0%,
         20%{
-            content:" Front Desiner";
+            content:" Frontend";
         }
         21%,
         40%{
@@ -234,14 +234,14 @@ span{
         }
         41%,
         60%{
-            content: " Front Desiner";
+            content: " Frontend";
         }
         61%,
         80%{
             content: " Web Developer";
         }81%,
         100%{
-            content: " Front Desiner";
+            content: " Frontend";
         }
     }
     @keyframes typing{
